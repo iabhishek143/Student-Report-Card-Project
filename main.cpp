@@ -1,30 +1,4 @@
 
-Conversation opened. 1 unread message.
-
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-
-1 of 1,492
-Project Source | Student Report Card Project
-
-RedBush Technologies <subscribe@redbushtechnologies.com>
-Attachments
-20:32 (0 minutes ago)
-to me
-
-Hi,
-
-Please find attached the project you requested for. We keep adding such useful projects time to time on our website. Click on the below button to subscribe our YouTube channel. This will notify you of any new projects we add and other useful FREE training videos
-
-Team RedBush
-+91 9971483222
-www.RedBushTechnologies.com
-
-
-Attachments area
 
 //***************************************************************
 //                   HEADER FILE USED IN PROJECT
